@@ -1,3 +1,4 @@
 *.ipynb_*
-input/
+input/*.csv
+output/*.csv
 
